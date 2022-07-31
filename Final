@@ -1,0 +1,45 @@
+{
+   "title":"Fat, Love, and Mistakes",
+   "description":"Yumeko wakes up after an accident with no memories but with a tremendous desire to live and be happy. Now, she must learn to know herself again and face the fears of her old self.",
+   "artist":"Mamakari",
+   "author":"Mamakari",
+   "cover":"https://i.imgur.com/MwrqkFi.png",
+   "chapters": {
+      "16": {
+         "title":"Beginning of tragedy (Part 2)",
+         "volume":"4",
+         "groups": {"Fattyloveranon": "/proxy/api/imgur/chapter/sSDQmRx/"},
+         "last_updated":"1659234439"
+    },
+    "17": {
+      "title": "Kindness goes well with the common cold",
+      "volume": "4",
+      "groups": {"Fattyloveranon": "/proxy/api/imgur/chapter/UC4eSh6/"},
+         "last_updated":"1659234439"
+    },
+    "18": {
+      "title": "The one he loves",
+      "volume": "4",
+      "groups": {"Fattyloveranon": "/proxy/api/imgur/chapter/Dd4ptqz/"},
+         "last_updated":"1659234439"
+    },
+    "19": {
+      "title": "She's just a friend, really.",
+      "volume": "4",
+      "groups": {"Fattyloveranon": "/proxy/api/imgur/chapter/PD8ZFQ3/"},
+         "last_updated":"1659234439"
+  },
+    "20": {
+      "title": "Minami doesn't want to live anymore",
+      "volume": "4",
+      "groups": {"Fattyloveranon": "/proxy/api/imgur/chapter/9OgSSEQ/"},
+         "last_updated":"1659234439"
+  },
+    "21": {
+      "title": "Extra",
+      "volume": "4",
+      "groups": {"Fattyloveranon": "/proxy/api/imgur/chapter/yB1fuUY/"},
+         "last_updated":"1659234439"
+    }
+   }
+}
